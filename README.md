@@ -24,8 +24,8 @@ Discord sunucularınızı daha eğlenceli ve işlevsel hale getirmek için geli�
 
   | Komut  | Resim                                                                                                  |
   | ------ | ------------------------------------------------------------------------------------------------------ |
-  | Stat   | ![Stat Komutu](https://github.com/user-attachments/assets/9f84a693-0602-4dbe-ab24-bd53d4fb5da5)   |
-  | Top    | ![Top Komutu](https://github.com/user-attachments/assets/41fc5e56-6935-45cd-a4f3-6b921cfc4a22)    |
+  | Stat   | ![Stat Komutu](https://github.com/user-attachments/assets/af41f77b-26c0-4c49-85d1-40fb240a69aa)   |
+  | Top    | ![Top Komutu](https://github.com/user-attachments/assets/c975a865-bcbc-4882-9738-1483335d198c)    |
   | Level  | ![Level Komutu](https://github.com/user-attachments/assets/a278378d-a019-43cf-9ae5-03847bca6ef3)  |
   | Level UP! | ![Level Atlama ](https://github.com/user-attachments/assets/ae2c26ca-6fbc-47a2-abf2-76b94efd76bc)  |
 
